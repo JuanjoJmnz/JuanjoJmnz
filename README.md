@@ -1,8 +1,11 @@
 # 👋 ¡Hola, bienvenido a mi GitHub!
 
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00FFE5&height=300&section=header&text=Juan%20José%20Jiménez&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20de%20Aplicaciones%20Multiplataforma&descAlignY=51&descAlign=62"/>
+    <a href="https://www.linkedin.com/in/juan-josé-jiménez-gil-2588a2222/" target="_blank">
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00FFE5&height=300&section=header&text=Juan%20José%20Jiménez&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20de%20Aplicaciones%20Multiplataforma&descAlignY=51&descAlign=62" alt="Juan José Jiménez"/>
+    </a>
 </p>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanjojmnz)](https://github.com/JuanjoJmnz?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjojmnz)]()
