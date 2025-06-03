@@ -6,20 +6,27 @@
     </a>
 </p>
 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanjojmnz)](https://github.com/JuanjoJmnz?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjojmnz)]()
 
-## 👨‍💻 Sobre mi
-  
-Inicié mis pasos como **desarrollador de aplicaciones multiplataforma** en **2023**, cuando comencé a estudiar Sistemas Microinformáticos y Redes, y Desarrollo de Aplicaciones Multiplataforma después de eso. Desde entonces me he dedicado a desarrollar mis habilidades creando proyectos personales, explorando tecnologías como Java, Spring Boot, MySQL, JPA y JWT, y aplicando buenas prácticas de desarrollo orientado a objetos y arquitectura REST.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juanjojmnz/juanjojmnz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juanjojmnz/juanjojmnz/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/juanjojmnz/juanjojmnz/output/github-snake.svg" />
+</picture>
+
+
+
+# 👨‍💻 Sobre mi
+Inicié mis pasos como **desarrollador de aplicaciones multiplataforma** en **2023**, cuando comencé a estudiar **Sistemas Microinformáticos y Redes**, y **Desarrollo de Aplicaciones Multiplataforma** después. Desde entonces me he dedicado a desarrollar mis habilidades creando proyectos personales, explorando tecnologías como Java, Spring Boot, MySQL, JPA y JWT, y aplicando buenas prácticas de desarrollo orientado a objetos y arquitectura REST.
 
 Actualmente estoy ampliando mis conocimientos hacia el desarrollo móvil con **Android Studio y Kotlin**, con el objetivo de integrar todo lo aprendido en soluciones móviles completas. Me apasiona seguir aprendiendo y enfrentar nuevos desafíos que me permitan crecer como desarrollador.
 
-## 🚀 Tecnologías que uso
+<br><br>
+
+# 🚀 Mi Stack:
  
 ### 📋 Lenguajes
-
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
@@ -29,32 +36,26 @@ Actualmente estoy ampliando mis conocimientos hacia el desarrollo móvil con **A
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 
-
 ### 💾 Bases de Datos
-
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 
-
 ### 💻 IDEs
-
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
 
-
 ### 🥅 Otras tecnologías
-
 ![WordPress](https://img.shields.io/badge/WordPress-%2339ACFF.svg?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![API REST](https://img.shields.io/badge/API%20REST-%2332A3FF.svg?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
 
+<br><br>
 
 ## 🤝🏻 Conecta conmigo
-
 <a href="https://github.com/JuanjoJmnz">
   <img height="50" src="https://github.com/user-attachments/assets/92e97d7a-75d6-4104-b624-12733149e801"/>
 </a>
@@ -67,6 +68,8 @@ Actualmente estoy ampliando mis conocimientos hacia el desarrollo móvil con **A
 <a href="https://www.youtube.com/@Juanjo_TechRetro">
   <img height="50" src="https://github.com/user-attachments/assets/8503d207-dbc9-4679-984a-960eac1c424c"/>
 </a>
+
+<br><br>
 
 ## 📝 Algunos blogs publicados
 
