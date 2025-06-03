@@ -1,14 +1,19 @@
-# 👋 Hola, mi nombre es Juan José Jiménez
+# 👋 ¡Hola, bienvenido a mi GitHub!
 
-[![An image of @adityakanoi's Holopin badges, which is a link to view their full Holopin profile](https://bitacoradejuanjo.wordpress.com/wp-content/uploads/2025/05/banner-para-linkedin-desarrollador-de-software-moderno-negro.jpg?w=1024)](https://bitacoradejuanjo.wordpress.com/wp-content/uploads/2025/05/banner-para-linkedin-desarrollador-de-software-moderno-negro.jpg?w=1024)
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00FFE5&height=300&section=header&text=Juan%20José%20Jiménez&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20de%20Aplicaciones%20Multiplataforma&descAlignY=51&descAlign=62"/>
+</p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanjojmnz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjojmnz)](https://github.com/anuraghazra/github-readme-stats)
 
-### 👨‍💻 &nbsp;Sobre Mí
+## 👨‍💻 Sobre mi
   
 Inicié mis pasos como **desarrollador de aplicaciones multiplataforma** en **2023**, cuando comencé a estudiar Sistemas Microinformáticos y Redes, y Desarrollo de Aplicaciones Multiplataforma después de eso. Desde entonces me he dedicado a desarrollar mis habilidades creando proyectos personales, explorando tecnologías como Java, Spring Boot, MySQL, JPA y JWT, y aplicando buenas prácticas de desarrollo orientado a objetos y arquitectura REST.
 
 Actualmente estoy ampliando mis conocimientos hacia el desarrollo móvil con **Android Studio y Kotlin**, con el objetivo de integrar todo lo aprendido en soluciones móviles completas. Me apasiona seguir aprendiendo y enfrentar nuevos desafíos que me permitan crecer como desarrollador.
 
+## 🚀 Tecnologías que uso
  
 ### 📋 Lenguajes
 
@@ -45,12 +50,20 @@ Actualmente estoy ampliando mis conocimientos hacia el desarrollo móvil con **A
 ![API REST](https://img.shields.io/badge/API%20REST-%2332A3FF.svg?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
 
 
-### 🤝🏻 &nbsp;Conecta conmigo
+## 🤝🏻 Conecta conmigo
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanjoJmnz)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-josé-jiménez-gil-2588a2222/)&nbsp;
-[![Sitio Web](https://img.shields.io/badge/-SitioWeb-3423A6?style=flat&logo=Google-Chrome&logoColor=white)](https://bitacoradejuanjo.wordpress.com)&nbsp;
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@Juanjo_TechRetro)&nbsp;
+<a href="https://github.com/JuanjoJmnz">
+  <img height="50" src="https://github.com/user-attachments/assets/92e97d7a-75d6-4104-b624-12733149e801"/>
+</a>
+<a href="https://www.linkedin.com/in/juan-josé-jiménez-gil-2588a2222/">
+  <img height="50" src="https://github.com/user-attachments/assets/3c9148f0-5771-49f2-9dac-e1e60077a4b6"/>
+</a>
+<a href="https://bitacoradejuanjo.wordpress.com">
+  <img height="50" src="https://github.com/user-attachments/assets/0e5fb111-00bf-4adf-8484-c1083e5fb952"/>
+</a>
+<a href="https://www.youtube.com/@Juanjo_TechRetro">
+  <img height="50" src="https://github.com/user-attachments/assets/8503d207-dbc9-4679-984a-960eac1c424c"/>
+</a>
 
 ## 📝 Algunos blogs publicados
 
