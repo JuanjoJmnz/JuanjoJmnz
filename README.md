@@ -4,8 +4,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00FFE5&height=300&section=header&text=Juan%20José%20Jiménez&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20de%20Aplicaciones%20Multiplataforma&descAlignY=51&descAlign=62"/>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanjojmnz)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjojmnz)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanjojmnz)](https://github.com/JuanjoJmnz?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjojmnz)]()
 
 ## 👨‍💻 Sobre mi
   
