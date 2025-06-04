@@ -6,8 +6,9 @@
     </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanjojmnz)](https://github.com/JuanjoJmnz?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjojmnz)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanjojmnz&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjojmnz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juanjojmnz/juanjojmnz/output/github-snake-dark.svg" />
