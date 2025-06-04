@@ -6,8 +6,8 @@
     </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanjojmnz&show_icons=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjojmnz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanjojmnz&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjojmnz)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <picture>
