@@ -7,7 +7,7 @@
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanjojmnz)](https://github.com/JuanjoJmnz?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjojmnz)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjojmnz)]
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juanjojmnz/juanjojmnz/output/github-snake-dark.svg" />
