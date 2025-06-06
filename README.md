@@ -6,8 +6,8 @@
     </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanjojmnz&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjojmnz&size_weight=0.5&count_weight=0.5)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanjojmnz&show_icons=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjojmnz&size_weight=0.5&count_weight=0.6)
 
 
 <picture>
@@ -44,9 +44,9 @@ Actualmente estoy ampliando mis conocimientos hacia el desarrollo móvil con **A
 
 ### 📚 Frameworks
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)&nbsp;
-![Maven]((https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white))
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)&nbsp;
 
 
 ### 💻 IDEs
