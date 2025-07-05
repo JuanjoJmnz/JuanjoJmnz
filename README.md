@@ -65,16 +65,16 @@ Actualmente estoy ampliando mis conocimientos hacia el desarrollo móvil con **A
 
 ## 🤝🏻 Conecta conmigo
 <a href="https://github.com/JuanjoJmnz">
-  <img height="50" src="https://github.com/user-attachments/assets/92e97d7a-75d6-4104-b624-12733149e801"/>
+  <img height="50px" width="50px" src="https://github.com/user-attachments/assets/92e97d7a-75d6-4104-b624-12733149e801"/>
 </a>
 <a href="https://www.linkedin.com/in/juan-josé-jiménez-gil-2588a2222/">
-  <img height="50" src="https://github.com/user-attachments/assets/3c9148f0-5771-49f2-9dac-e1e60077a4b6"/>
+  <img height="50px" width="50px" src="https://github.com/user-attachments/assets/3c9148f0-5771-49f2-9dac-e1e60077a4b6"/>
 </a>
 <a href="https://bitacoradejuanjo.wordpress.com">
-  <img height="50" src="https://github.com/user-attachments/assets/0e5fb111-00bf-4adf-8484-c1083e5fb952"/>
+  <img height="50px" width="50px" src="https://github.com/user-attachments/assets/0e5fb111-00bf-4adf-8484-c1083e5fb952"/>
 </a>
 <a href="https://www.youtube.com/@Juanjo_TechRetro">
-  <img height="50" src="https://github.com/user-attachments/assets/8503d207-dbc9-4679-984a-960eac1c424c"/>
+  <img height="50px" width="50px" src="https://github.com/user-attachments/assets/8503d207-dbc9-4679-984a-960eac1c424c"/>
 </a>
 
 <br><br>
