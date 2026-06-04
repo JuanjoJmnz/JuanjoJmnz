@@ -61,6 +61,7 @@ Actualmente estoy ampliando mis conocimientos hacia el desarrollo móvil con **A
 ![WordPress](https://img.shields.io/badge/WordPress-%2339ACFF.svg?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![API REST](https://img.shields.io/badge/API%20REST-%2332A3FF.svg?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
+![UiPath](https://img.shields.io/badge/UiPath-orange)&nbsp;
 
 <br><br>
 
