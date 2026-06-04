@@ -6,7 +6,7 @@
     </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanjojmnz)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://kayan-github-profile-projects-featu.vercel.app/api?username=juanjojmnz)]
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjojmnz&size_weight=0.5&count_weight=0.6)
 
 
